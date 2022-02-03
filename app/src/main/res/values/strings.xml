@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="print_selected_items">Print selected items</string>
+</resources>
